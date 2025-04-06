@@ -1,0 +1,21 @@
+2025-02-26 17:14:45 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:47 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:48 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:48 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:49 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:51 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:03 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:05 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:07 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:19 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:33 [ERROR]: Email sending failed to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-03-04 09:19:46 [ERROR]: Email automation failed: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2025-04-05 20:56:57 [INFO]: Email queued for complaint 67f14bc033e44ab01054b400
+2025-04-05 20:57:02 [INFO]: Email sent successfully to vynr1504@gmail.com
+2025-04-05 21:36:10 [INFO]: Email queued for complaint 67f154f14f4f8102041c47cd
+2025-04-06 10:30:19 [INFO]: Email queued for complaint 67f20a63360b31bfbe627830
+2025-04-06 10:30:23 [INFO]: Email sent successfully to vynr1504@gmail.com
+2025-04-06 10:51:52 [INFO]: Email sent successfully to vynr1504@gmail.com
+2025-04-06 13:36:29 [WARN]: File not found: \api\student\uploads\b3abdb1f5ee1b5a091e5d80bc8c9df52.png
+2025-04-06 13:36:29 [INFO]: Email queued for complaint 67f236050404bc129966f083
+2025-04-06 13:36:33 [INFO]: Email sent successfully to vynr1504@gmail.com

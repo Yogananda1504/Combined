@@ -1,0 +1,26 @@
+2025-02-26 17:14:44 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:14:45 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:45 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:14:47 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:47 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:14:48 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:48 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:14:49 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:50 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:14:51 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:14:52 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:02 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:03 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:03 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:03 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:04 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:06 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:06 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:08 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:18 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:18 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-02-26 17:15:18 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-02-26 17:15:19 [ERROR]: Error sending email to vynr1504@gmail.com: Missing credentials for "PLAIN"
+2025-04-05 21:36:11 [INFO]: Processing job for email to vynr1504@gmail.com
+2025-04-05 21:36:15 [INFO]: Email sent to vynr1504@gmail.com
+2025-04-06 10:51:47 [INFO]: Adding email job to queue: 67f20a63360b31bfbe627830

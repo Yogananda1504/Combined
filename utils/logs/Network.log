@@ -1,0 +1,6 @@
+2025-03-04 14:37:05 [ERROR]: Error fetching department data: Operation `infrastructurecomplaints.find()` buffering timed out after 10000ms
+2025-04-05 21:43:27 [ERROR]: Error updating complaint status: Cannot read properties of null (reading 'toLowerCase')
+2025-04-06 10:37:00 [INFO]: Admin updated remarks for complaint 67f154f14f4f8102041c47cd at 2025-04-06T05:07:00.594Z
+2025-04-06 10:37:10 [INFO]: Admin updated remarks for complaint 67f154f14f4f8102041c47cd at 2025-04-06T05:07:10.485Z
+2025-04-06 11:08:24 [INFO]: Admin updated remarks for complaint 67f154f14f4f8102041c47cd at 2025-04-06T05:38:24.067Z
+2025-04-06 11:11:31 [INFO]: Admin updated remarks for complaint 67f154f14f4f8102041c47cd at 2025-04-06T05:41:31.377Z

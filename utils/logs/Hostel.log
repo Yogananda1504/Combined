@@ -1,0 +1,79 @@
+2025-03-04 09:02:06 [INFO]: User query:
+2025-03-04 09:02:16 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 09:02:23 [INFO]: User query:
+2025-03-04 09:02:33 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 09:05:29 [INFO]: User query:
+2025-03-04 09:05:39 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 09:14:56 [INFO]: User query:
+2025-03-04 09:15:06 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 14:25:55 [INFO]: User query:
+2025-03-04 14:25:56 [INFO]: Complaints for role
+2025-03-04 14:26:22 [INFO]: User query:
+2025-03-04 14:26:22 [INFO]: Complaints for role
+2025-03-04 14:26:26 [INFO]: User query:
+2025-03-04 14:26:26 [INFO]: Complaints for role
+2025-03-04 14:26:31 [INFO]: User query:
+2025-03-04 14:26:32 [INFO]: Complaints for role
+2025-03-04 14:26:40 [INFO]: User query:
+2025-03-04 14:26:40 [INFO]: Complaints for role
+2025-03-04 14:26:51 [INFO]: User query:
+2025-03-04 14:26:51 [INFO]: Complaints for role
+2025-03-04 14:34:52 [INFO]: User query:
+2025-03-04 14:35:02 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 14:35:06 [INFO]: User query:
+2025-03-04 14:35:16 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 14:35:42 [INFO]: User query:
+2025-03-04 14:35:52 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 14:36:39 [INFO]: User query:
+2025-03-04 14:36:49 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 14:38:31 [INFO]: User query:
+2025-03-04 14:38:41 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:02:56 [INFO]: User query:
+2025-03-04 16:03:06 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:06 [INFO]: User query:
+2025-03-04 16:03:16 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:16 [INFO]: User query:
+2025-03-04 16:03:26 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:26 [INFO]: User query:
+2025-03-04 16:03:36 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:36 [INFO]: User query:
+2025-03-04 16:03:46 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:46 [INFO]: User query:
+2025-03-04 16:03:56 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:03:56 [INFO]: User query:
+2025-03-04 16:04:06 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-03-04 16:04:06 [INFO]: User query:
+2025-03-04 16:04:16 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-04-05 16:48:03 [INFO]: User query:
+2025-04-05 16:48:13 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-04-05 16:53:33 [INFO]: User query:
+2025-04-05 16:53:43 [ERROR]: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-04-05 17:22:59 [INFO]: User query:
+2025-04-05 17:23:09 [ERROR]: Error in calculateStatsForHostel: Operation `hostelcomplaints.aggregate()` buffering timed out after 10000ms
+2025-04-05 17:23:09 [ERROR]: Error in hostelRoleBasedDataController: Operation `hostelcomplaints.find()` buffering timed out after 10000ms
+2025-04-05 21:09:45 [INFO]: User query:
+2025-04-05 21:09:46 [INFO]: Complaints for role
+2025-04-05 21:11:34 [INFO]: User query:
+2025-04-05 21:11:34 [INFO]: Complaints for role
+2025-04-05 21:11:42 [INFO]: User query:
+2025-04-05 21:11:42 [INFO]: Complaints for role
+2025-04-05 21:17:33 [INFO]: User query:
+2025-04-05 21:17:33 [INFO]: Complaints for role
+2025-04-05 21:17:39 [INFO]: User query:
+2025-04-05 21:17:39 [INFO]: Complaints for role
+2025-04-05 21:22:08 [INFO]: User query:
+2025-04-05 21:22:08 [INFO]: Complaints for role
+2025-04-05 21:26:12 [INFO]: User query:
+2025-04-05 21:26:12 [INFO]: Complaints for role
+2025-04-05 21:32:41 [INFO]: User query:
+2025-04-05 21:32:41 [INFO]: Complaints for role
+2025-04-05 21:35:15 [INFO]: Complaints for role
+2025-04-05 21:38:20 [INFO]: User query:
+2025-04-05 21:38:20 [INFO]: Complaints for role
+2025-04-05 21:38:32 [INFO]: User query:
+2025-04-05 21:38:32 [INFO]: Complaints for role
+2025-04-05 21:38:39 [INFO]: User query:
+2025-04-05 21:38:39 [INFO]: Complaints for role
+2025-04-05 21:39:00 [INFO]: Complaints for role
+2025-04-06 10:39:59 [INFO]: cow updated remarks for Hostel complaint 67f20a63360b31bfbe627830 at 2025-04-06T05:09:59.557Z
+2025-04-06 10:51:47 [INFO]: cow viewed Hostel complaint 67f20a63360b31bfbe627830 at 2025-04-06T05:21:47.504Z
